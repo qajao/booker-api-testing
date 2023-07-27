@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cypress": "^12.17.1",
+    "eslint": "^8.45.0",
+    "eslint-plugin-cypress": "^2.13.3"
+  },
+  "name": "booker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
